@@ -1,7 +1,7 @@
 ### Vuejs 로 만든 portfolio
 
 ### Project start
-root 폴더에서 npm i > node_modules 생김
+root 폴더에서 npm i > node_modules 만들어짐 > 
 npm run serve
 
 ### Customize configuration
